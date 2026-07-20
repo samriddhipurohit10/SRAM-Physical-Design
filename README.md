@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧠 SRAM
+#  SRAM
 ### A Memory Block, Made Testable — RTL to a Tapeout-Ready GDSII
 
 **Built during a Physical Design Internship at VLSIMINDS · Cadence Innovus 23.16 · GPDK045 (45nm) · June–July 2026**
